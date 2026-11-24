@@ -1,0 +1,16 @@
+{
+  "name": "ahj-workers-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "@koa/cors": "^5.0.0",
+    "koa": "^3.3.0"
+  }
+}
