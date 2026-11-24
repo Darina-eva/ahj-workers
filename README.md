@@ -8,9 +8,11 @@
 
 [GitHub Pages](https://darina-eva.github.io/ahj-workers/)
 
-## Запуск сервера
+## Сервер
 
-Фронтенд обращается к серверу по адресу `http://localhost:7070` (см. `src/js/config.js`).
+Сервер развёрнут на Render: https://ahj-workers-1owb.onrender.com (эндпоинт `/news`). Адрес задаётся в `src/js/config.js`.
+
+Локальный запуск:
 
 ```bash
 cd backend
